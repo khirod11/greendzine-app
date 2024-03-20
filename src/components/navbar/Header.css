@@ -1,0 +1,24 @@
+.header-container{
+    background-color: #000E09;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+.header-connection{
+    display: flex;
+    gap: 10px;
+}
+/* @media only screen and (max-width: 360px) {
+    .header-container{
+        background-color: red;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        padding: 1rem;
+    }
+    .header-connection{
+        display: flex;
+        gap: 10px;
+    }
+} */

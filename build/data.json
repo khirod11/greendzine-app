@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Arjun",
+      "email": "arjun@example.com",
+      "password": "password1",
+      "dob": "16-11-2000",
+      "role": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Mahesh",
+      "email": "mahesh@example.com",
+      "password": "password2",
+      "dob": "15-01-2000",
+      "role": "Software Developer"
+    },
+    {
+      "id": 3,
+      "name": "Rajesh",
+      "email": "rajesh@example.com",
+      "password": "password3",
+      "dob": "16-10-2001",
+      "role": "Devops Engineer"
+    },
+    {
+      "id": 4,
+      "name": "Arvind",
+      "email": "arvind@example.com",
+      "password": "password4",
+      "dob": "08-03-2000",
+      "role": "Architect Engineer"
+    },
+    {
+      "id": 5,
+      "name": "Rakesh",
+      "email": "rakesh@example.com",
+      "password": "password5",
+      "dob": "05-08-2000",
+      "role": "Product Engineer"
+    }
+  ]
+}

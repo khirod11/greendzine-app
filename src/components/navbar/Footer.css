@@ -1,0 +1,26 @@
+.footer-container{
+    background-color: #000E09;
+/* display: grid;
+grid-template-columns: 50% 50%; */
+/* align-items: center; */
+display: flex;
+gap: 8rem;
+justify-content: center;
+align-items: center;
+padding: 1rem;
+font-size: 25px;
+/* border: 1px solid red; */
+/* width: 50%; */
+}
+.icon{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+    cursor: pointer;
+    background-color: #000E09;
+    /* font-size: 20px; */
+    /* border-style: none; */
+    
+}
